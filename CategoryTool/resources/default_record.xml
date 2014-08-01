@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+	<patient name="Abby Smith" screening="3" diagnostic="4"
+		ultrasound="false" date="12/05/2013" />
+	<patient name="Emily Jones" screening="0" diagnostic="3"
+		ultrasound="false" date="12/06/2013" />
+	<patient name="Test E Patient" screening="0" diagnostic="0"
+		ultrasound="false" date="20/41/2015" />
+	<patient name="Test F Patient" screening="3" diagnostic="2"
+		ultrasound="true" date="14/07/2017" />
+</records>
