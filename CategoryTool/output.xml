@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<records>
-	<patient name="June Smith" screening="0" diagnostic="4" date="01/02/2013" />
-	<patient name="Lilly Jones" screening="3" diagnostic="5" date="01/03/2013" />
-	<patient name="Marge Roberts" screening="0" diagnostic="2" date="01/04/2013" />
-<patient name="Wilma Snoot" screening="0" diagnostic="5" date="12/05/2013" /></records>
